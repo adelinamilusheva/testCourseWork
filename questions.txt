@@ -1,0 +1,8 @@
+1.The default executable generation on UNIX for a C program is ___ :     |a)a.exe            |b)a              |c)out.a         |
+2.A Variable name in C includes which special symbols?                   |a)* (asterisk)     |b)# (Hash)       |c)_ (underscore)|
+3.Which library function can convert an unsigned long to a string?       |a)ltoa()           |b)ultoa()        |c)system()      |
+4.Which operators are for bitwise logic?(give two answers separated by ,)|a)&                |b)~              |c)==            |
+5.Who is known as the founder of C language?                             |a)Dennis Ritchie   |b)Mark Zuckerberg|c)James Gosling |
+6.What is the correct way of treating 9.81 as a long double?             |a)9.81L            |b)9.81LD         |c)9.81D         |
+7.Which of the following has a global scope in the program?              |a)Formal parameters|b)Constants      |c)Macros        |
+8.When did C first appear?                                               |a)1972             |b)2001           |c)1965          |
